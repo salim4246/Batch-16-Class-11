@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -24,12 +24,157 @@
 
 .project-it{
     float: left;
-    background: radial-gradient(circle, rgba(180,58,122,1) 0%, rgba(15,12,204,0.5019257703081232) 50%, rgba(252,176,69,1) 100%);
+    background-image: url(images/pic1.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     width: 24%;
-    height: 200px;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: rgb(2, 3, 1);
+    /* text-align: center; */
+    color: #F85606;
+    border-radius: 5px;
+}
+
+.project-it2{
+    float: left;
+    background-image: url(images/Keyboard.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    color: #F85606;
+    text-align: right;
+    border-radius: 5px;
+
+}
+
+.project-it3{
+    float: left;
+    background-image: url(images/pic3.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.project-it4{
+    float: left;
+    background-image: url(images/pic2.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #F85606;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.project-it5{
+    float: left;
+    background-image: url(images/pic5.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
     border: 1px solid black;
     margin-right: 10px;
     margin-bottom: 10px;
     color: rgb(2, 3, 1);
     text-align: center;
+    border-radius: 5px;
+}
+
+.project-it6{
+    float: left;
+    background-image: url(images/pic1.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #F85606;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.project-it7{
+    float: left;
+    background-image: url(images/Type\ C.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #030201;
+    text-align: right;
+    border-radius: 5px;
+}
+
+.project-it8{
+    float: left;
+    background-image: url(images/pic6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24%;
+    height: 250px;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.footer{
+    background-color: #212129;
+    height: 300px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+.footer-iteam{
+    margin-top: 10px;
+    padding-top: 40px;
+    float: left;
+    width: 18%;
+    margin-left: 100px;
+}
+
+.link{
+    display: block;
+    text-decoration: none;
+    color: #F85606;
+    margin-top: 20px;
+}
+
+.hhtag{
+    
+}
+
+.pptag{
+    margin-top: 20px;
 }
