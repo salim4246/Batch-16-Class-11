@@ -5,6 +5,7 @@
 }
 
 .hero{
+    margin-top: 50px;
     color: rgb(0, 255, 234);
     height: 300px;
     background-size: cover;
@@ -14,6 +15,26 @@
     background-image: url('images/it123.jpg');
 
 }
+
+/* @media screen and (max-width: 1000px){
+    .hero{
+width: 500px;
+    }
+}
+
+@media screen and (max-width: 410px){
+    .hero{
+width: 500px;
+    }
+}
+
+@media screen and (max-width: 307px){
+    .hero{
+width: 300px;
+    }
+} */
+
+
 
 .project{
     margin-top: 25px;
